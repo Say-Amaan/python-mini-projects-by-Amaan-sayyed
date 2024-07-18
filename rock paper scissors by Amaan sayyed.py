@@ -44,6 +44,7 @@ def play_game():
         play_again = input("\nDo you want to play again? (yes/no): ").strip().lower()
         if play_again != 'yes':
             print("\nThanks for playing!")
+            print ("game by amaan sayyed")
             break
 
 # Start the game
